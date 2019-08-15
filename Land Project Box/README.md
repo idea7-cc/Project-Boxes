@@ -1,9 +1,5 @@
-# Idea7 Project Boxes
-This is a repo for files associated with the series of 4 Idea7 project boxes.  The boxes are Air, Land, Sea, and Launch and they ship on a repeating quarterly cycle:
-- Air (Fall)
-- Land (Winter)
-- Sea (Spring)
-- Launch (Summer)
+# Land Project Box
+This is a repo for files associated with the Land Project Box.
 
 ## Join the fun!
 These project boxes contain our favorite supplies for fun (and educational) projects within the box's theme.  In addition to a standard kit of parts and material, the boxes ship with a current collection of the best open-source designs that add extra fun to the boxes.  These designs are developed during each quarterly project cycle.  There are three ways for students to get involved in a project cycle.
